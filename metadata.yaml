@@ -1,0 +1,32 @@
+_repo: Germany-Bohemia-and-Hungary-Visited-in-1837.-Vol.-II_24419
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gleig, G. R. (George Robert)
+    alias: Gleig, George Robert
+    birthdate: 1796
+    deathdate: 1888
+    gutenberg_agent_id: '8056'
+    url: http://www.gutenberg.org/2009/agents/8056
+    wikipedia: http://en.wikipedia.org/wiki/George_Robert_Gleig
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2008-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bohemia (Czech Republic) -- Description and travel'
+- !lcsh 'Austria -- Description and travel'
+- !lcsh 'Germany -- Description and travel'
+- !lcc 'DB'
+- !lcc 'DD'
+title: Germany, Bohemia, and Hungary, Visited in 1837. Vol. II
+url: http://www.gutenberg.org/ebooks/24419
